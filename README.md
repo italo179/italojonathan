@@ -1,4 +1,4 @@
-Olá! Eu sou Italo Jonathan, desenvolvedor Front-End e uso o GitHub para colocar meus projetos.
+
 
 <div align="center">
   <a href="https://github.com/italojonathan">
